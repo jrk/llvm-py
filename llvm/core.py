@@ -1263,6 +1263,9 @@ class Argument(Value):
     def set_alignment(self, align):
         _core.LLVMSetParamAlignment(self.ptr, align)
 
+    def get_alignment(self, align):
+        return _core.LLVMGetParamAlignment(self.ptr)
+
 
 class Function(GlobalValue):
 
