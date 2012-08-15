@@ -1,6 +1,9 @@
 WARNING: THIS IS NOT MY PROJECT, NOR IS IT ACTIVELY DEVELOPED.
 
-It is a mirror of a seemingly extinct project at http://www.mdevan.org/llvm-py, with an additional patch (from the author) applied to build against LLVM 2.9. It is known to be broken/flakey, and is only kept here for archival purposes since it is newer than the latest trunk in the official repository.
+It is a mirror of a seemingly extinct project at http://www.mdevan.org/llvm-py,
+with an additional patch (from the author) applied to build against LLVM 2.9.
+It is known to be broken/flakey, and is only kept here for archival purposes
+since it is newer than the latest trunk in the official repository.
 
 
 llvm-py: Python Bindings for LLVM
